@@ -1,0 +1,14 @@
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/soleilherring/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/ref/Starter.dll
